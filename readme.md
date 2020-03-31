@@ -1,0 +1,1 @@
+This is Yurichard's first GIT prokect!
